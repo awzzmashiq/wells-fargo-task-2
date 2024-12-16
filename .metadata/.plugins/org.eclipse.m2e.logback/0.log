@@ -1,0 +1,12 @@
+2024-12-15 21:34:49,683 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-15 21:35:27,873 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wellsfargo:counselor:0.0.1-SNAPSHOT @ C:\Users\ashiq\Projects\task2\wells-fargo-task-2\pom.xml.
+2024-12-15 21:35:29,286 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wells-fargo-task-2/src/main/java
+2024-12-15 21:35:29,287 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wells-fargo-task-2/src/main/resources
+2024-12-15 21:35:29,300 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wells-fargo-task-2/src/main/resources
+2024-12-15 21:35:29,302 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wells-fargo-task-2/src/test/java
+2024-12-15 21:35:29,302 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wells-fargo-task-2/src/test/resources
+2024-12-15 21:35:29,980 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-12-15 21:35:33,661 [Worker-8: Auto share git projects] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2024-12-15 21:35:35,254 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2024-12-15 21:35:35,272 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2024-12-15 21:35:35,277 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ashiq\Projects\task2\wells-fargo-task-2\src\test\resources
